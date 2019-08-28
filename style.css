@@ -1,0 +1,20 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #59ff67;
+    color: white;
+
+}
+
+header, main, footer {
+    background-color: #b3731b
+
+}
+
+header>nav {
+    border: 1px solid black
+
+}
+
+article {
+    border: 5px solid black
+}
