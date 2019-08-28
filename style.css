@@ -15,6 +15,17 @@ header>nav {
 
 }
 
-article {
+main>article {
+    display: inline-block;
+
+
+}
+
+main>article>img {
     border: 5px solid black
+}
+
+article {
+    border: 5px solid black;
+    
 }
